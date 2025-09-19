@@ -20,6 +20,8 @@
   "homepage": "https://github.com/francois-sa-semifir/test-demo-node-jenkins#readme",
   "devDependencies": {
     "jest": "^29.7.0",
-    "jest-unit": "^0.0.2"
+    "jest-unit": "^0.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
   }
 }
